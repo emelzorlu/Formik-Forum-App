@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Emel",
+      "title": "React MVC Pattern (Mimari)",
+      "text": "MVC Mimari ile bileşenleri nasıl yönetirim?",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "2",
+      "user": "Yüsra",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "3",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React Problemi",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "Emiralp"
+    },
+    {
+      "id": "1ad30c6e-84bc-43ff-8b4c-cd7ad4024dd6",
+      "user": "Elif",
+      "title": "Firebase",
+      "text": "Yeni güncellemeden sonra...."
+    },
+    {
+      "id": "8e02feb3-f4c5-42ea-b6d5-393d85ebf785",
+      "user": "Emel",
+      "title": "JSX Nedir?",
+      "text": "JavaScript dosyalarında HTML benzeri kod yazmalarına olanak tanıyan bir sözdizimi uzantısıdır."
+    },
+    {
+      "id": "67fea2ae-c680-4808-84f4-da38316b4016",
+      "user": "Gürkan",
+      "title": "Reactta sorun yaşıyorum",
+      "text": "MVC çözümü"
+    },
+    {
+      "id": "d1598ed6-05a3-4907-bd58-4ab2120107f2",
+      "user": "React'ta sorun yaşıyorum",
+      "title": "sorun",
+      "text": "ok"
+    }
+  ]
+}
